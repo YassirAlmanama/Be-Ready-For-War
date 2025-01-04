@@ -1,33 +1,131 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Yassir/Desktop/Be Ready For War/Packages/manifest.json
+    m_FilePath: C:/Users/Yassir/Desktop/Be-Ready-For-War/Be Ready For War/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638715723011368313
-    m_Hash: 3242621534
+      ticks: 638715747137050643
+    m_Hash: 1116187014
   m_LockFileStatus:
-    m_FilePath: C:/Users/Yassir/Desktop/Be Ready For War/Packages/packages-lock.json
+    m_FilePath: C:/Users/Yassir/Desktop/Be-Ready-For-War/Be Ready For War/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638715723876632537
-    m_Hash: 1335821123
+      ticks: 638715747137132342
+    m_Hash: 1160586038
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Yassir/Desktop/Be Ready For War/Packages
+m_ProjectPath: C:/Users/Yassir/Desktop/Be-Ready-For-War/Be Ready For War/Packages
 m_EditorVersion: 2021.3.45f1 (0da89fac8e79)
 m_ResolvedPackages:
+- packageId: com.meta.xr.sdk.interaction.ovr.samples@69.0.1
+  testable: 0
+  isDirectDependency: 1
+  version: 69.0.1
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.meta.xr.sdk.interaction.ovr.samples@69.0.1
+  assetPath: Packages/com.meta.xr.sdk.interaction.ovr.samples
+  name: com.meta.xr.sdk.interaction.ovr.samples
+  displayName: (Deprecated) Meta XR Interaction SDK OVR Samples
+  author:
+    name: Meta Platforms, Inc.
+    email: 
+    url: https://developer.oculus.com/
+  category: 
+  type: 
+  description: Contains sample scenes, prefabs, and art assets for Interaction SDK,
+    using OVR variants of the player rig.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.2
+    - 69.0.0
+    - 69.0.1
+    compatible:
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.2
+    - 69.0.0
+    - 69.0.1
+    verified: 
+  dependencies:
+  - name: com.meta.xr.sdk.interaction.ovr
+    version: 69.0.2
+  resolvedDependencies:
+  - name: com.meta.xr.sdk.interaction.ovr
+    version: 69.0.2
+  - name: com.meta.xr.sdk.core
+    version: 69.0.1
+  - name: com.meta.xr.sdk.interaction
+    version: 69.0.1
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.textmeshpro
+    version: 3.0.6
+  keywords:
+  - Quest
+  - OVR
+  - Meta
+  - XR
+  - Interaction
+  - Samples
+  - SDK
+  - Oculus
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 1
+  datePublishedTicks: 638653145376850000
+  documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
 - packageId: com.unity.collab-proxy@2.5.2
   testable: 0
   isDirectDependency: 1
   version: 2.5.2
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.collab-proxy@2.5.2
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.collab-proxy@2.5.2
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -168,7 +266,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -256,7 +354,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.31
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.ide.rider@3.0.31
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.ide.rider@3.0.31
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -355,7 +453,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -439,7 +537,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -502,7 +600,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -636,7 +734,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -826,7 +924,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.5
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.timeline@1.6.5
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.timeline@1.6.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -999,7 +1097,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1066,7 +1164,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.visualscripting@1.9.4
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.visualscripting@1.9.4
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1154,12 +1252,167 @@ m_ResolvedPackages:
     version: 1.9.4
     nextVersion: 
     recommendedVersion: 
+- packageId: com.unity.xr.oculus@3.4.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.4.1
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.xr.oculus@3.4.1
+  assetPath: Packages/com.unity.xr.oculus
+  name: com.unity.xr.oculus
+  displayName: Oculus XR Plugin
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Provides display and input support for Oculus devices.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview
+    - 0.1.2-preview.1
+    - 0.8.4-preview
+    - 1.0.0-preview.4
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3-preview.1
+    - 1.1.0-preview
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2-preview
+    - 1.1.2
+    - 1.1.3-preview
+    - 1.1.3-preview.1
+    - 1.1.4-preview
+    - 1.1.4-preview.1
+    - 1.1.4
+    - 1.1.5-preview
+    - 1.1.5
+    - 1.2.0-preview.1
+    - 1.2.0
+    - 1.3.1
+    - 1.3.3
+    - 1.3.4
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0
+    - 1.4.3
+    - 1.5.0
+    - 1.5.1
+    - 1.6.0-preview.1
+    - 1.6.0-preview.2
+    - 1.6.1
+    - 1.7.0-preview.1
+    - 1.7.0-preview.2
+    - 1.7.0
+    - 1.8.1
+    - 1.9.0-preview.1
+    - 1.9.0
+    - 1.9.1
+    - 1.10.0-preview.1
+    - 1.10.0-preview.2
+    - 1.10.0
+    - 1.10.1-preview.3
+    - 1.11.0
+    - 1.11.2
+    - 1.12.0
+    - 1.12.1
+    - 1.13.0
+    - 1.13.1-preview.1
+    - 1.13.1-preview.2
+    - 1.13.1
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.2-preview.1
+    - 2.2.0-preview.1
+    - 2.2.3-preview.1
+    - 2.2.3-preview.2
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0-pre.4
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.1.1
+    - 3.2.1
+    - 3.2.2-pre.1
+    - 3.2.2
+    - 3.2.3-pre.1
+    - 3.2.3
+    - 3.3.0
+    - 3.4.0
+    - 3.4.1
+    - 4.0.0
+    - 4.1.1
+    - 4.1.2
+    - 4.2.0-exp-env-depth.1
+    - 4.2.0-exp-env-depth.2
+    - 4.2.0
+    - 4.3.0-pre.1
+    - 4.3.0
+    - 4.4.0
+    compatible:
+    - 3.4.1
+    verified: 3.4.1
+  dependencies:
+  - name: com.unity.xr.management
+    version: 4.4.0
+  resolvedDependencies:
+  - name: com.unity.xr.management
+    version: 4.5.0
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  keywords:
+  - oculus
+  - xr
+  - vr
+  - virtual
+  - rift
+  - quest
+  - xreditorsubsystem
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638627703928600000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.oculus@3.4/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.oculus.git
+    revision: bd7f4b668277fea3ab9c8e5db4e22e6f23f419af
+    path: 
+  unityLifecycle:
+    version: 3.4.1
+    nextVersion: 
+    recommendedVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1209,7 +1462,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1258,7 +1511,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1308,7 +1561,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1358,7 +1611,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1408,7 +1661,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1462,7 +1715,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1520,7 +1773,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1571,7 +1824,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1621,7 +1874,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1671,7 +1924,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1721,7 +1974,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1771,7 +2024,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1821,7 +2074,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1875,7 +2128,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1925,7 +2178,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1983,7 +2236,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2036,7 +2289,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2086,7 +2339,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2152,7 +2405,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2202,7 +2455,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2260,7 +2513,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2310,7 +2563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2368,7 +2621,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2426,7 +2679,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2484,7 +2737,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2558,7 +2811,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2612,7 +2865,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2674,7 +2927,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2738,7 +2991,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2788,7 +3041,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2850,7 +3103,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -2904,7 +3157,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -2960,12 +3213,143 @@ m_ResolvedPackages:
     version: 
     nextVersion: 
     recommendedVersion: 
+- packageId: com.unity.xr.management@4.5.0
+  testable: 0
+  isDirectDependency: 0
+  version: 4.5.0
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.xr.management@4.5.0
+  assetPath: Packages/com.unity.xr.management
+  name: com.unity.xr.management
+  displayName: XR Plugin Management
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Package that provides simple management of XR plug-ins. Manages and
+    offers help with loading, initialization, settings, and build support for XR
+    plug-ins.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.8
+    - 0.1.0-preview.12
+    - 1.0.0-preview.2
+    - 2.0.0-preview.3
+    - 2.0.0-preview.6
+    - 2.0.0-preview.9
+    - 2.0.0-preview.10
+    - 2.0.0-preview.13
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.0.0-preview.24
+    - 2.0.0-preview.25
+    - 2.0.0-preview.26
+    - 3.0.1
+    - 3.0.2-preview.1
+    - 3.0.2-preview.2
+    - 3.0.3
+    - 3.0.4-preview.1
+    - 3.0.4-preview.3
+    - 3.0.4
+    - 3.0.5-preview.1
+    - 3.0.5
+    - 3.0.6-preview.2
+    - 3.0.6
+    - 3.1.0-preview.2
+    - 3.2.4
+    - 3.2.6
+    - 3.2.7
+    - 3.2.9
+    - 3.2.10
+    - 3.2.11-preview.1
+    - 3.2.12
+    - 3.2.13
+    - 3.2.15
+    - 3.2.16
+    - 3.2.17
+    - 4.0.0-exp.2
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.1
+    - 4.0.3
+    - 4.0.5
+    - 4.0.6
+    - 4.0.7
+    - 4.1.0-pre.1
+    - 4.1.0-pre.2
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 4.3.1
+    - 4.3.3
+    - 4.4.0
+    - 4.4.1
+    - 4.5.0
+    compatible:
+    - 4.5.0
+    verified: 4.5.0
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.7
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  keywords:
+  - xr
+  - sdk
+  - ar
+  - vr
+  - management
+  - build
+  - plugin
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638560264920000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.management@4.5/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
+    revision: fa86b200cd8cd1b75a57534d44d41cc7b6b7f58d
+    path: 
+  unityLifecycle:
+    version: 4.5.0
+    nextVersion: 
+    recommendedVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3031,7 +3415,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3091,7 +3475,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.2
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3159,7 +3543,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -3255,12 +3639,214 @@ m_ResolvedPackages:
     version: 1.2.6
     nextVersion: 
     recommendedVersion: 
+- packageId: com.meta.xr.sdk.interaction.ovr@69.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 69.0.2
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.meta.xr.sdk.interaction.ovr@69.0.2
+  assetPath: Packages/com.meta.xr.sdk.interaction.ovr
+  name: com.meta.xr.sdk.interaction.ovr
+  displayName: "Meta XR Interaction \u200BSDK"
+  author:
+    name: Meta Platforms, Inc.
+    email: 
+    url: https://developer.oculus.com/
+  category: 
+  type: 
+  description: This package allows Interaction SDK to interface with OVRPlugin. Use
+    this package if you are using OVRPlugin or the Core SDK package.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 56.0.0-preview
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.1
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 69.0.1
+    - 69.0.2
+    - 71.0.0
+    compatible:
+    - 56.0.0-preview
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.1
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 69.0.1
+    - 69.0.2
+    - 71.0.0
+    verified: 
+  dependencies:
+  - name: com.meta.xr.sdk.core
+    version: 69.0.1
+  - name: com.meta.xr.sdk.interaction
+    version: 69.0.1
+  resolvedDependencies:
+  - name: com.meta.xr.sdk.core
+    version: 69.0.1
+  - name: com.meta.xr.sdk.interaction
+    version: 69.0.1
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.textmeshpro
+    version: 3.0.6
+  keywords:
+  - Samples
+  - Interaction
+  - XR
+  - Quest
+  - SDK
+  - OVR
+  - Oculus
+  - Meta
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 1
+  datePublishedTicks: 638653111102150000
+  documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+- packageId: com.unity.xr.legacyinputhelpers@2.1.11
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.11
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    compatible:
+    - 2.1.11
+    verified: 2.1.11
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638627703211970000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 43a3dc5e306cc961f9f0121a31ec3bd1285cf1a7
+    path: 
+  unityLifecycle:
+    version: 2.1.11
+    nextVersion: 
+    recommendedVersion: 
 - packageId: com.unity.settings-manager@1.0.3
   testable: 0
   isDirectDependency: 0
   version: 1.0.3
   source: 1
-  resolvedPath: C:\Users\Yassir\Desktop\Be Ready For War\Library\PackageCache\com.unity.settings-manager@1.0.3
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.unity.settings-manager@1.0.3
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -3312,5 +3898,187 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.3
+    nextVersion: 
+    recommendedVersion: 
+- packageId: com.meta.xr.sdk.core@69.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 69.0.1
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.meta.xr.sdk.core@69.0.1
+  assetPath: Packages/com.meta.xr.sdk.core
+  name: com.meta.xr.sdk.core
+  displayName: Meta XR Core SDK
+  author:
+    name: Meta Platforms, Inc.
+    email: 
+    url: https://developer.oculus.com/
+  category: 
+  type: 
+  description: Meta XR Core SDK package provides the latest features to create immersive
+    experiences for Meta XR devices.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 68.0.3
+    - 69.0.0
+    - 69.0.1
+    - 71.0.0
+    compatible:
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 68.0.3
+    - 69.0.0
+    - 69.0.1
+    - 71.0.0
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - Quest
+  - Oculus
+  - SDK
+  - XR
+  - Utilities
+  - Meta
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 1
+  datePublishedTicks: 638652370807310000
+  documentationUrl: https://developer.oculus.com/documentation/unity/
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+- packageId: com.meta.xr.sdk.interaction@69.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 69.0.1
+  source: 1
+  resolvedPath: C:\Users\Yassir\Desktop\Be-Ready-For-War\Be Ready For War\Library\PackageCache\com.meta.xr.sdk.interaction@69.0.1
+  assetPath: Packages/com.meta.xr.sdk.interaction
+  name: com.meta.xr.sdk.interaction
+  displayName: Meta XR Interaction SDK Essentials
+  author:
+    name: Meta Platforms, Inc.
+    email: 
+    url: https://developer.oculus.com/
+  category: 
+  type: 
+  description: Provides the core implementations of all the provided interaction
+    models along with necessary shaders, materials, and prefabs.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 56.0.0-preview
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 69.0.0
+    - 69.0.1
+    - 71.0.0
+    compatible:
+    - 56.0.0-preview
+    - 57.0.0-preview
+    - 59.0.0
+    - 60.0.0
+    - 62.0.0
+    - 63.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.0
+    - 67.0.0
+    - 68.0.0
+    - 68.0.1
+    - 68.0.2
+    - 69.0.0
+    - 69.0.1
+    - 71.0.0
+    verified: 
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.textmeshpro
+    version: 3.0.6
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.textmeshpro
+    version: 3.0.6
+  keywords:
+  - Meta
+  - SDK
+  - Quest
+  - Interaction
+  - Oculus
+  - XR
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 1
+  datePublishedTicks: 638653058845880000
+  documentationUrl: https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
     recommendedVersion: 
